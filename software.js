@@ -20,7 +20,6 @@ const logosPath = {
     "1% MOBILE": "logos/1M.png",
     "Sixshotz": "logos/SIX.png",
     "RAIKENS SIX": "logos/RKS.png",
-
     "TC": "logos/TC.png",
     "TC 2": "logos/TC.png",
     "TEAM REX": "logos/REX.png",
