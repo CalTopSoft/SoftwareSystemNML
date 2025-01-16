@@ -12,6 +12,28 @@ const logosPath = {
     "GLIZZY GANG BR": "logos/GLIZZY.png",
     "GZ SKB":"logos/GLIZZY.png",
     "T1": "logos/T1",
+    "COMPLEXITY": "logos/XTY.png",
+    "COMPLEXITY XT": "logos/XTY.png",
+    "Exy Girls": "logos/EXYG.png",
+    "IBERUCHITOS GANG": "logos/BGZ.png",
+    "1%": "logos/1.png",
+    "1% MOBILE": "logos/1M.png",
+    "Sixshotz": "logos/SIX.png",
+    "Raikens Six": "logos/RKS.png",
+    "TC": "logos/TC.png",
+    "TC 2": "logos/TC.png",
+    "TEAM REX": "logos/REX.png",
+    "E11 ELEVEN": "logos/EXY_MOBILE.png",
+    "E11 ELEVEN EXY": "logos/EXY_MOBILE.png",
+    "AKATSUKI": "logos/AKU.png",
+    "TM30 SILVER": "logos/TM.png",
+    "T7": "logos/T7.png",
+    "THE SEVEN": "logos/T7.png",
+    "NAK": "logos/NAK.png",
+    "NXT LETHAL": "logos/NXT.png",
+    "ZODIAC": "logos/ZD.png",
+    "KING MORTAL": "logos/KGM.png",
+
 };
 
 
