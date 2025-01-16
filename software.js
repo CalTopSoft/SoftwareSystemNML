@@ -23,6 +23,7 @@ const logosPath = {
     "TC": "logos/TC.png",
     "TC 2": "logos/TC.png",
     "TEAM REX": "logos/REX.png",
+    "LEVEL UP": "logos/LU.png",
     "E11 ELEVEN": "logos/EXY_MOBILE.png",
     "E11 ELEVEN EXY": "logos/EXY_MOBILE.png",
     "AKATSUKI": "logos/AKU.png",
